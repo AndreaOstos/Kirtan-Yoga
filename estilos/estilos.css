@@ -1,0 +1,50 @@
+header{background-color:white
+}
+body{
+    background-color: rgba(202, 202, 197, 0.731);
+}
+.cabezales {
+    text-align: center;
+}
+.clase1 {
+    display: inline-block;
+    border: 1px ridge;
+    align-items: center;
+    margin: 0.5rem 8rem 1rem 1rem;
+    padding: 0.5rem 0.5rem 0.5rem 0.5rem;
+}
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+.titulo {
+    text-align: center;
+}
+#titulo_italic {
+    font-style: italic;
+}
+.imagen_central {
+    text-align: center;
+}
+.imagen_inicio {
+    width: 870px;
+}
+.imagen_nosotros { 
+    width: 420px;
+}
+.imagen_horario_1 {
+    width: 690px;
+    height: 480px;
+}
+.imagen_horario_2 {
+    width: 725px;
+    height: 480px;
+}
+#parrafo_nosotros {
+    font-weight: 100;
+}
+.footer {
+    text-align: center;
+    background-color: white;
+}
